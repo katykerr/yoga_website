@@ -1,0 +1,11 @@
+/* * {
+    border: 1px solid red;
+} */
+
+a:hover {
+    background-color: rgb(5, 179, 202);
+}
+
+.bg-image {
+    background-image: src="static/background.jpg";
+}
